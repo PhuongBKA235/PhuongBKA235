@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hello, I'm Phuong!</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=plastic" alt="profile views">
