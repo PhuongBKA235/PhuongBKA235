@@ -6,10 +6,6 @@
 
 ## 🚀 About Me  
 🔹 Software Developer | 🔹 Open Source Contributor | 🔹  Bot Developer
-
-- 🔭 I’m currently working on **[Your Java/C++/Python Project]**
-- 🌱 I’m learning **Java Spring Boot | C++ STL | Python Automatic**
-- 💬 Ask me about **Java, C++, Python, and Competitive Programming**
 - 📫 Reach me at **Phuongoffciavv@gmail.com**
 
 ---
@@ -17,20 +13,17 @@
 ## 🛠️ My Tech Stack  
 
 ### **💻 Programming Languages** 
-![HTML5]
-![CSS3]
-![JavaScript]
-![Java]
-![C++]
-![Python]
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
 
 ### **⚡ Frameworks & Libraries**  
-![React]
-![Node.js]
-![Spring Boot]
-![Django]
-![TensorFlow]
-
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ---
 
 ## 📊 GitHub Stats  
@@ -53,5 +46,6 @@
   
 ---
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://github.com/PhuongBKA235)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/phuong-nguyen-van-dev/)
+[![GitHub](https://gith[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://github.com/PhuongBKA235)
+
