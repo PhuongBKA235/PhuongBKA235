@@ -3,7 +3,7 @@
 
 ## 🚀 About Me  
 🔹 Software Developer | 🔹 Open Source Contributor | 🔹  Bot Developer
-- 📫 Reach me at **Phuongoffciavv@gmail.com**
+- 📫 Reach me at **Phuongbka235@gmail.com**
 
 ---
 
